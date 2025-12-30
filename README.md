@@ -7,9 +7,10 @@ I enjoy building systems and models that reason about performance, uncertainty, 
 
 ### Interests
 - Algorithms & optimization
+- Full-stack development (backend-focused)
 - Systems programming
 - Probabilistic modeling & simulation
-- Full-stack development (backend-focused)
+
 
 
 
