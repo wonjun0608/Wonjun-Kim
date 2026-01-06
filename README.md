@@ -19,7 +19,7 @@ I focus on algorithmic problem-solving with optimization, data analytics, and sy
 **Full-stack web application for evaluating MLB players using probabilistic simulation instead of single-season statistics.**
 
 > **Project Details**  
-> This project analyzes St. Louis Cardinals players by simulating many possible seasons using Monte Carlo methods. Repeatedly generating full 500 plate-appearance seasons from real batting probabilities, the application captures statistical uncertainty, performance variability, and risk. The results are summarized using statistical measures such as expected value and volatility, and visualized through interactive charts so that users can compare players side by side using distributions instead of single-point estimates.
+> This project analyzes St. Louis Cardinals players by simulating many possible seasons using Monte Carlo methods. Repeatedly generating full 500 plate-appearance seasons from real batting probabilities, the application captures statistical uncertainty, performance variability, and risk. The results are summarized using statistical measures and users can compare players side by side using distributions.
 
 > **Tech Stack**  
 > - **Frontend:** React, JavaScript, Chart.js  
