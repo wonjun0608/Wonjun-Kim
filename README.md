@@ -1,6 +1,4 @@
-# Wonjun Kim
-
-## Hi, I'm Wonjun 👋
+# Hi, I'm Wonjun 👋
 
 
 I'm studying Computer Science and Statistics at Washington University in St. Louis, with a background in Physics.
