@@ -117,16 +117,24 @@ I'm studying **Computer Science and Statistics** at **Washington University in S
 
 
 ## 🔬 Physics Research
-
 ### Measuring Electron Wavelength via Bragg Diffraction
-**Juniata College — Physics Department**
-
-> Measured the wavelength of an electron beam using Bragg Diffraction and the de Broglie relation with Aluminum and Graphite targets under different accelerating voltages.
-
+**Physics Department  | Feb 2025 – May 2025**
+> Experimentally verified wave-particle duality by probing electron diffraction behavior across structurally distinct crystalline targets polycrystalline aluminum (FCC) and single-crystal graphite (hexagonal layered), under systematically varied accelerating voltages (5.0–7.4 kV). Exploited the inverse relationship between electron momentum and de Broglie wavelength to predict diffraction geometry, then cross-validated against Bragg's Law using Miller index assignments (111)(200)(220)(311) for aluminum ring patterns.
 - **Method:** Electron diffraction through polycrystalline Al and Graphite foils
 - **Analysis:** Applied de Broglie's wavelength equation and Bragg's Law
 - **Result:** Experimentally determined Planck's constant from voltage-wavelength relationship
 
-![Research Poster](poster (1).jpg)
+<img src="poster (1).jpg" width="600"/>
+
+---
+
+### Thermal Energy Storage System Using Phase-Change Materials
+**Physics Department | Aug 2024 – Dec 2024**
+
+> Designed a thermal energy storage system that exploits the latent heat properties of paraffin wax as a phase-change material to regulate heat absorption and release. Arduino-controlled temperature sensors were used to monitor real-time thermal state transitions, allowing precise observation of solid-liquid phase boundaries under varying heat loads. The system bridged embedded instrumentation with applied thermodynamics by characterizing how PCM-mediated energy buffering can passively stabilize thermal fluctuations without active control overhead.
+
+- **Method:** Arduino temperature sensor array tracking phase transition behavior of paraffin wax PCM under controlled heat input conditions
+- **Analysis:** Quantified latent heat absorption and release cycles, mapped thermal hysteresis across phase boundaries, and evaluated storage efficiency under different load profiles
+- **Result:** Validated latent heat based passive thermal regulation as a low overhead energy storage strategy, with measured phase transition behavior consistent with theoretical PCM thermodynamics
 
 
