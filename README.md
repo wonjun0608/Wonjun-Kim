@@ -13,11 +13,9 @@ I focus on algorithmic problem-solving with optimization, full stack web Develop
 
 ---
 
-<!-- 상단 타이틀 배너 -->
 <p align="center">
   <img src="https://vercel.app👋&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
-
 ## 🚀 About Me
 I'm studying **Computer Science and Statistics** at **Washington University in St. Louis**, with a background in Physics. I focus on algorithmic problem-solving with optimization, full-stack web Development, and system design, and I enjoy exploring how these ideas come together in practical software projects.
 
@@ -48,11 +46,11 @@ I'm studying **Computer Science and Statistics** at **Washington University in S
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Dashboard
-<p align="center">
-  <img src="https://vercel.app" alt="Wonjun's GitHub stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
-</p>
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wonjun-kim-061313373/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wonjunkim0608@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wonjunkim0608/)
 
 <p align="center">
   <img src="https://herokuapp.com" alt="GitHub Streak" width="98%"/>
