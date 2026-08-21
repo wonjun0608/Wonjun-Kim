@@ -115,3 +115,18 @@ I'm studying **Computer Science and Statistics** at **Washington University in S
 📎 **Detailed Implementation:** https://github.com/wonjun0608/embedded-distance-display-system
 
 
+
+## 🔬 Physics Research
+
+### Measuring Electron Wavelength via Bragg Diffraction
+**Juniata College — Physics Department**
+
+> Measured the wavelength of an electron beam using Bragg Diffraction and the de Broglie relation with Aluminum and Graphite targets under different accelerating voltages.
+
+- **Method:** Electron diffraction through polycrystalline Al and Graphite foils
+- **Analysis:** Applied de Broglie's wavelength equation and Bragg's Law
+- **Result:** Experimentally determined Planck's constant from voltage-wavelength relationship
+
+![Research Poster](poster (1).jpg)
+
+
