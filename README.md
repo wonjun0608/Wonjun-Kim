@@ -1,24 +1,13 @@
 # Hi, I'm Wonjun 👋
+I'm studying Computer Science and Statistics at Washington University in St. Louis, with a background in Physics. I focus on algorithmic problem-solving with optimization, full-stack web development, and system design, and I enjoy exploring how these ideas come together in practical software projects.
 
+## 🚀 About Me
+I'm studying **Computer Science and Statistics** at **Washington University in St. Louis**, with a background in Physics. I focus on algorithmic problem-solving with optimization, full-stack web development, and system design, and I enjoy exploring how these ideas come together in practical software projects.
 
-I'm studying Computer Science and Statistics at Washington University in St. Louis, with a background in Physics.
-I focus on algorithmic problem-solving with optimization, full stack web Development, and system design, and I enjoy exploring how these ideas come together in practical software projects.
-
-
-### Interests
+### 💡 Interests
 - Algorithms & optimization
-- Full-stack development (backend-focused)
 - Systems programming
 - Probabilistic modeling & simulation
-
----
-
-<p align="center">
-  <img src="https://vercel.app👋&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</p>
-## 🚀 About Me
-I'm studying **Computer Science and Statistics** at **Washington University in St. Louis**, with a background in Physics. I focus on algorithmic problem-solving with optimization, full-stack web Development, and system design, and I enjoy exploring how these ideas come together in practical software projects.
-
 ---
 
 ## 🔧 Tech Stack
